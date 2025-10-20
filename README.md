@@ -1,4 +1,3 @@
-<!-- ChainAdapter_20251020111514_9569 -->
 
 # ChainAdapter: Real-Time Data Processing Framework
 > "Unlocking the Power of Multi-Protocol Data Streams, One Chain at a Time."
